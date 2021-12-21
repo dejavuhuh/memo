@@ -1,0 +1,2 @@
+# memo
+.bashrc配置
